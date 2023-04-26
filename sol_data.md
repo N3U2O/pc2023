@@ -1,9 +1,9 @@
 # legend (regexp): C\d+ challenge number >.* challenge input or hint >>>.* python prompt <\n(content) replacement to url for next challenge
-C0
+# C0
 >2**38
 <
 274877906944
-C1
+# C1
 >K->M,O->Q,E->G
 >g fmnc wms bgblr rpylqjyrc gr zw fylb. rfyrq ufyr amknsrcpq ypc dmp. bmgle gr gl zw fylb gq glcddgagclr ylb rfyr'q ufw rfgq rcvr gq qm jmle. sqgle qrpgle.kyicrpylq() gq pcamkkclbcb. lmu ynnjw ml rfc spj.
 ```python
